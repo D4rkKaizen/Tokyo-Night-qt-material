@@ -5,7 +5,7 @@
 <color name="secondaryDarkColor">#11131C</color>
 <!-- Контраст текста -->
 
-<color name="primaryTextColor">#0B0E14</color>
+<color name="primaryTextColor">#C0CAF5</color>
 <color name="secondaryTextColor">#C0CAF5</color>
 <!-- Дополнительные акценты и состояния (используются стилем/extra) -->
 
