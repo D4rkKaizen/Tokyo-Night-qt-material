@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?> <resources> <!-- Базовые тона в духе Tokyo Night --> <color name="primaryColor">#7AA2F7</color> <color name="primaryLightColor">#A9C1FA</color> <!-- Фоновые поверхности (тёмные, сине-фиолетовые) -->
+
+<color name="secondaryColor">#1A1B26</color>
+<color name="secondaryLightColor">#24283B</color>
+<color name="secondaryDarkColor">#11131C</color>
+<!-- Контраст текста -->
+
+<color name="primaryTextColor">#0B0E14</color>
+<color name="secondaryTextColor">#C0CAF5</color>
+<!-- Дополнительные акценты и состояния (используются стилем/extra) -->
+
+<color name="warning">#FF9E64</color>
+<color name="danger">#F7768E</color>
+<color name="success">#9ECE6A</color>
+<color name="link">#7DCFFF</color>
+<color name="focus">#2AC3DE</color>
+<color name="selectionBackground">#283457</color>
+<color name="selectionForeground">#C0CAF5</color>
+<color name="tooltipBackground">#16161E</color>
+<color name="tooltipForeground">#C0CAF5</color>
+<color name="disabledText">#5B6078</color>
+<!-- Разделители/рамки и дополнительные поверхности -->
+
+<color name="divider">#2F3549</color>
+<color name="outline">#3B4261</color>
+<color name="surface1">#1F2335</color>
+<color name="surface2">#24283B</color>
+<color name="surface3">#2A2F4A</color>
+</resources>
